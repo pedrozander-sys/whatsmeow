@@ -1,0 +1,6 @@
+{
+  "extraKnownMarketplaces": {
+    "teamcopa": { "source": { "source": "github", "repo": "pedrozander-sys/Teamcopa" } }
+  },
+  "enabledPlugins": { "consumo-creditos@teamcopa": true }
+}
